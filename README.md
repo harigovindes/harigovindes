@@ -1,81 +1,70 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Harigovind</h1>
-<h3 align="center">🚀 Frontend Developer | PyQt Software Developer | Electronics & Embedded Systems Enthusiast</h3>
-
-<!-- Typing animation -->
+<!-- Animated Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=I+Love+Building+Modern+UIs;Frontend+%7C+PyQt+%7C+Electronics;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20I'm%20Harigovind&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&width=500&lines=Fullstack+Developer;PyQt+Software+Engineer;Electronics+Enthusiast;Tech+Innovator" />
+  </a>
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- **Dart, Flutter, Advanced PyQt GUI Design, Embedded Systems, IoT**
-- PCB Design, Microcontroller Programming (ESP32, Arduino, STM32)
+## 🚀 About Me
+- 💻 Fullstack developer (Frontend + Backend)  
+- 🖥 PyQt software engineer  
+- 🔌 Electronics & IoT enthusiast  
+- ☁ Experienced with **Vercel, Cloudflare, Firebase, Heroku**  
+- 🌱 Currently exploring **Flutter, Dart, AI-powered apps**  
 
 ---
 
-### 🔭 Current Projects
-- 📱 **Flutter Music Player** with AI-based recommendations  
-- 💻 **Cross-Platform PyQt Desktop Apps** (Productivity Tools, Control Panels)  
-- ⚡ **Smart Electronics Projects** — BLE Bus Tracking System, Class-D Audio Amplifier  
-- 🌐 **AI Image Generator Website**  
-- 🤖 Exploring **Neural Networks & LiDAR for Robotics**
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/harigovindes"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠 Languages, Tools & Technologies
+## 📊 GitHub Stats
 <p align="center">
-  <!-- First row: Software -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://tailwindcss.com/_next/static/media/social-square.e8538ad8.png" alt="TailwindCSS" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Second row: Python & PyQt -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/pyqt.png" alt="PyQt" width="40" height="40"/> <!-- PyQt -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Third row: Electronics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/ArduinoLogo_%28official%29.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/ESP32.svg" alt="ESP32" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_Logo.svg" alt="STM32" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PCB.svg" alt="PCB Design" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/electronics.png" alt="Electronics" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harigovindes&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harigovindes&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harigovindes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harigovindes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harigovindes&theme=dracula&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 👁 Visitor Count
+## 📂 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Smart Home Controller** | PyQt app to control IoT devices | Python, PyQt, ESP32 |
+| **Portfolio Website** | Modern personal site hosted on Vercel | Next.js, Tailwind CSS |
+| **Electronics Tracker** | BLE-based location tracker | Arduino, ESP32 |
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harigovindes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer" />
 </p>
